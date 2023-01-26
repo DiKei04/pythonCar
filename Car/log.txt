@@ -1,0 +1,49 @@
+
+Error: 0 != 5
+Description:
+
+        :return:
+        
+Date:2023-01-23 11:17:52.935789
+Error: 0 != 5
+Description:
+
+        :return:
+        
+Date:2023-01-23 11:19:20.064632
+Error: error, cant start speed not 0
+Description:
+
+        :return:
+        
+Date:2023-01-23 11:21:57.853112
+Error: error, cant start speed not 0
+Description:
+
+        :return:
+        
+Date:2023-01-23 11:22:13.368110
+Error: error, gear level cant be 6+
+Description:
+
+        :return:
+        
+Date:2023-01-23 11:23:24.481551
+Error: assert 0 == 5
+Description:
+    check if the car stopped
+    :param c: the car
+    :return:
+    
+Date:2023-01-23 11:27:46.942813
+Error: no money to refueling
+Description:
+
+        :return:
+        
+Date:2023-01-23 11:31:22.542619
+Error: 90.0 != 70
+Description:
+        Checks the amount of money corresponds to the amount of fuel that should be
+        
+Date:2023-01-23 12:02:11.282744

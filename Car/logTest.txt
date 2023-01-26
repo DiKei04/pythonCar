@@ -1,0 +1,789 @@
+
+ Description: The test "test_stop" passed successfully, result:0 should receive 0
+ 
+    check if the car stopped
+    :param c: the car
+      Date:2023-01-23 11:57:48.812934
+
+ Description: The test "test_start" passed successfully, result:True should receive True
+ 
+    check if the car start drive
+    :param c: the car
+      Date:2023-01-23 11:57:48.813940
+
+ Description: The test "test_start" passed successfully,  check TypeError
+ 
+    Checks if the vehicle can start when it is already in motion
+    :param c: the car
+      Date:2023-01-23 11:57:48.815934
+
+ Description: The test "test_gearLevel" passed successfully, result:6 should receive 6
+ 
+    Checks if the gear is normal for speed
+    :param c: the car
+      Date:2023-01-23 11:57:48.816933
+
+ Description: The test "test_gearLevelF" passed successfully, check OverFlowError
+ 
+    Checks that the gear cannot be above level 6
+    :param c: the car
+      Date:2023-01-23 11:57:48.821933
+
+ Description: The test "test_checkFuelT" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination
+    :param c: the car
+      Date:2023-01-23 11:57:48.822932
+
+ Description: The test "test_checkFuel_withRefueling" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination provided there is money for fuel
+    :param c: the car
+      Date:2023-01-23 11:57:48.824933
+
+ Description: The test "test_checkFuel" passed successfully,  check TypeError
+ 
+    Checks that it is impossible to reach the destination without enough fuel
+    :param c: the car
+      Date:2023-01-23 11:57:48.825932
+
+ Description: The test "test_checkMoney" passed successfully, result:90.0 should receive True
+ 
+    Checks the amount of money corresponds to the amount of fuel that should be
+    :param c: the car
+      Date:2023-01-23 11:57:48.826952
+
+ Description: The test "test_checkMoney" passed successfully, check TypeError
+ 
+    Checks that you can't fill up fuel without money
+    :param c: the car
+      Date:2023-01-23 11:57:48.828939
+
+ Description: The test "test_stop" passed successfully, result:0 should receive 0
+ 
+    check if the car stopped
+    :param c: the car
+      Date:2023-01-23 11:58:51.579454
+
+ Description: The test "test_start" passed successfully, result:True should receive True
+ 
+    check if the car start drive
+    :param c: the car
+      Date:2023-01-23 11:58:51.581405
+
+ Description: The test "test_start" passed successfully,  check TypeError
+ 
+    Checks if the vehicle can start when it is already in motion
+    :param c: the car
+      Date:2023-01-23 11:58:51.582452
+
+ Description: The test "test_gearLevel" passed successfully, result:6 should receive 6
+ 
+    Checks if the gear is normal for speed
+    :param c: the car
+      Date:2023-01-23 11:58:51.583477
+
+ Description: The test "test_gearLevelF" passed successfully, check OverFlowError
+ 
+    Checks that the gear cannot be above level 6
+    :param c: the car
+      Date:2023-01-23 11:58:51.585451
+
+ Description: The test "test_checkFuelT" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination
+    :param c: the car
+      Date:2023-01-23 11:58:51.586448
+
+ Description: The test "test_checkFuel_withRefueling" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination provided there is money for fuel
+    :param c: the car
+      Date:2023-01-23 11:58:51.587449
+
+ Description: The test "test_checkFuel" passed successfully,  check TypeError
+ 
+    Checks that it is impossible to reach the destination without enough fuel
+    :param c: the car
+      Date:2023-01-23 11:58:51.588406
+
+ Description: The test "test_checkMoney" passed successfully, result:90.0 should receive True
+ 
+    Checks the amount of money corresponds to the amount of fuel that should be
+    :param c: the car
+      Date:2023-01-23 11:58:51.590449
+
+ Description: The test "test_checkMoney" passed successfully, check TypeError
+ 
+    Checks that you can't fill up fuel without money
+    :param c: the car
+      Date:2023-01-23 11:58:51.591446
+
+ Description: The test "test_stop" passed successfully, result:0 should receive 0
+ 
+    check if the car stopped
+    :param c: the car
+      Date:2023-01-23 11:59:30.081294
+
+ Description: The test "test_start" passed successfully, result:True should receive True
+ 
+    check if the car start drive
+    :param c: the car
+      Date:2023-01-23 11:59:30.083293
+
+ Description: The test "test_start" passed successfully,  check TypeError
+ 
+    Checks if the vehicle can start when it is already in motion
+    :param c: the car
+      Date:2023-01-23 11:59:30.084293
+
+ Description: The test "test_gearLevel" passed successfully, result:6 should receive 6
+ 
+    Checks if the gear is normal for speed
+    :param c: the car
+      Date:2023-01-23 11:59:30.085296
+
+ Description: The test "test_gearLevelF" passed successfully, check OverFlowError
+ 
+    Checks that the gear cannot be above level 6
+    :param c: the car
+      Date:2023-01-23 11:59:30.087295
+
+ Description: The test "test_checkFuelT" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination
+    :param c: the car
+      Date:2023-01-23 11:59:30.089293
+
+ Description: The test "test_checkFuel_withRefueling" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination provided there is money for fuel
+    :param c: the car
+      Date:2023-01-23 11:59:30.090292
+
+ Description: The test "test_checkFuel" passed successfully,  check TypeError
+ 
+    Checks that it is impossible to reach the destination without enough fuel
+    :param c: the car
+      Date:2023-01-23 11:59:30.092293
+
+ Description: The test "test_checkMoney" passed successfully, result:90.0 should receive True
+ 
+    Checks the amount of money corresponds to the amount of fuel that should be
+    :param c: the car
+      Date:2023-01-23 11:59:30.093293
+
+ Description: The test "test_checkMoney" passed successfully, check TypeError
+ 
+    Checks that you can't fill up fuel without money
+    :param c: the car
+      Date:2023-01-23 11:59:30.094293
+
+ Description: The test "test_stop" passed successfully, result:0 should receive 0
+ 
+    check if the car stopped
+    :param c: the car
+      Date:2023-01-23 12:01:50.743561
+
+ Description: The test "test_start" passed successfully, result:True should receive True
+ 
+    check if the car start drive
+    :param c: the car
+      Date:2023-01-23 12:01:50.745606
+
+ Description: The test "test_start" passed successfully,  check TypeError
+ 
+    Checks if the vehicle can start when it is already in motion
+    :param c: the car
+      Date:2023-01-23 12:01:50.746560
+
+ Description: The test "test_gearLevel" passed successfully, result:6 should receive 6
+ 
+    Checks if the gear is normal for speed
+    :param c: the car
+      Date:2023-01-23 12:01:50.748560
+
+ Description: The test "test_gearLevelF" passed successfully, check OverFlowError
+ 
+    Checks that the gear cannot be above level 6
+    :param c: the car
+      Date:2023-01-23 12:01:50.749561
+
+ Description: The test "test_checkFuelT" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination
+    :param c: the car
+      Date:2023-01-23 12:01:50.750560
+
+ Description: The test "test_checkFuel_withRefueling" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination provided there is money for fuel
+    :param c: the car
+      Date:2023-01-23 12:01:50.751560
+
+ Description: The test "test_checkFuel" passed successfully,  check TypeError
+ 
+    Checks that it is impossible to reach the destination without enough fuel
+    :param c: the car
+      Date:2023-01-23 12:01:50.752560
+
+ Description: The test "test_checkMoney" passed successfully, result:90.0 should receive True
+ 
+    Checks the amount of money corresponds to the amount of fuel that should be
+    :param c: the car
+      Date:2023-01-23 12:01:50.754561
+
+ Description: The test "test_checkMoney" passed successfully, check TypeError
+ 
+    Checks that you can't fill up fuel without money
+    :param c: the car
+      Date:2023-01-23 12:01:50.755560
+
+ Description: The test "test_stop" passed successfully, result:0 should receive 0
+ 
+    check if the car stopped
+    :param c: the car
+      Date:2023-01-23 12:30:54.601385
+
+ Description: The test "test_stop" passed successfully, result:0 should receive 0
+ 
+    check if the car stopped
+    :param c: the car
+      Date:2023-01-23 12:35:07.686441
+
+ Description: The test "test_start" passed successfully, result:True should receive True
+ 
+    check if the car start drive
+    :param c: the car
+      Date:2023-01-23 12:35:07.688445
+
+ Description: The test "test_start" passed successfully,  check TypeError
+ 
+    Checks if the vehicle can start when it is already in motion
+    :param c: the car
+      Date:2023-01-23 12:35:07.691402
+
+ Description: The test "test_gearLevel" passed successfully, result:6 should receive 6
+ 
+    Checks if the gear is normal for speed
+    :param c: the car
+      Date:2023-01-23 12:35:07.692402
+
+ Description: The test "test_gearLevelF" passed successfully, check OverFlowError
+ 
+    Checks that the gear cannot be above level 6
+    :param c: the car
+      Date:2023-01-23 12:35:07.693405
+
+ Description: The test "test_checkFuelT" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination
+    :param c: the car
+      Date:2023-01-23 12:35:07.695403
+
+ Description: The test "test_checkFuel_withRefueling" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination provided there is money for fuel
+    :param c: the car
+      Date:2023-01-23 12:35:07.696402
+
+ Description: The test "test_checkFuel" passed successfully,  check TypeError
+ 
+    Checks that it is impossible to reach the destination without enough fuel
+    :param c: the car
+      Date:2023-01-23 12:35:07.697402
+
+ Description: The test "test_checkMoney" passed successfully, result:90.0 should receive True
+ 
+    Checks the amount of money corresponds to the amount of fuel that should be
+    :param c: the car
+      Date:2023-01-23 12:35:07.698401
+
+ Description: The test "test_checkMoney" passed successfully, check TypeError
+ 
+    Checks that you can't fill up fuel without money
+    :param c: the car
+      Date:2023-01-23 12:35:07.700402
+
+ Description: The test "test_stop" passed successfully, result:0 should receive 0
+ 
+    check if the car stopped
+    :param c: the car
+      Date:2023-01-23 12:35:33.902689
+
+ Description: The test "test_start" passed successfully, result:True should receive True
+ 
+    check if the car start drive
+    :param c: the car
+      Date:2023-01-23 12:35:33.904693
+
+ Description: The test "test_start" passed successfully,  check TypeError
+ 
+    Checks if the vehicle can start when it is already in motion
+    :param c: the car
+      Date:2023-01-23 12:35:33.906734
+
+ Description: The test "test_gearLevel" passed successfully, result:6 should receive 6
+ 
+    Checks if the gear is normal for speed
+    :param c: the car
+      Date:2023-01-23 12:35:33.907689
+
+ Description: The test "test_gearLevelF" passed successfully, check OverFlowError
+ 
+    Checks that the gear cannot be above level 6
+    :param c: the car
+      Date:2023-01-23 12:35:33.909689
+
+ Description: The test "test_checkFuelT" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination
+    :param c: the car
+      Date:2023-01-23 12:35:33.910689
+
+ Description: The test "test_checkFuel_withRefueling" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination provided there is money for fuel
+    :param c: the car
+      Date:2023-01-23 12:35:33.911689
+
+ Description: The test "test_checkFuel" passed successfully,  check TypeError
+ 
+    Checks that it is impossible to reach the destination without enough fuel
+    :param c: the car
+      Date:2023-01-23 12:35:33.912689
+
+ Description: The test "test_checkMoney" passed successfully, result:90.0 should receive True
+ 
+    Checks the amount of money corresponds to the amount of fuel that should be
+    :param c: the car
+      Date:2023-01-23 12:35:33.913690
+
+ Description: The test "test_checkMoney" passed successfully, check TypeError
+ 
+    Checks that you can't fill up fuel without money
+    :param c: the car
+      Date:2023-01-23 12:35:33.915689
+
+ Description: The test "test_stop" passed successfully, result:0 should receive 0
+ 
+    check if the car stopped
+    :param c: the car
+      Date:2023-01-23 12:36:51.126414
+
+ Description: The test "test_start" passed successfully, result:True should receive True
+ 
+    check if the car start drive
+    :param c: the car
+      Date:2023-01-23 12:36:51.128414
+
+ Description: The test "test_start" passed successfully,  check TypeError
+ 
+    Checks if the vehicle can start when it is already in motion
+    :param c: the car
+      Date:2023-01-23 12:36:51.129414
+
+ Description: The test "test_gearLevel" passed successfully, result:6 should receive 6
+ 
+    Checks if the gear is normal for speed
+    :param c: the car
+      Date:2023-01-23 12:36:51.131414
+
+ Description: The test "test_gearLevelF" passed successfully, check OverFlowError
+ 
+    Checks that the gear cannot be above level 6
+    :param c: the car
+      Date:2023-01-23 12:36:51.132414
+
+ Description: The test "test_checkFuelT" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination
+    :param c: the car
+      Date:2023-01-23 12:36:51.133418
+
+ Description: The test "test_checkFuel_withRefueling" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination provided there is money for fuel
+    :param c: the car
+      Date:2023-01-23 12:36:51.134414
+
+ Description: The test "test_checkFuel" passed successfully,  check TypeError
+ 
+    Checks that it is impossible to reach the destination without enough fuel
+    :param c: the car
+      Date:2023-01-23 12:36:51.136415
+
+ Description: The test "test_checkMoney" passed successfully, result:90.0 should receive True
+ 
+    Checks the amount of money corresponds to the amount of fuel that should be
+    :param c: the car
+      Date:2023-01-23 12:36:51.138414
+
+ Description: The test "test_checkMoney" passed successfully, check TypeError
+ 
+    Checks that you can't fill up fuel without money
+    :param c: the car
+      Date:2023-01-23 12:36:51.139414
+
+ Description: The test "test_checkMoney" passed successfully, check TypeError
+ 
+    Checks that you can't fill up fuel without money
+    :param c: the car
+      Date:2023-01-23 12:39:27.365833
+
+ Description: The test "test_checkFuel" passed successfully,  check TypeError
+ 
+        Checks that it is impossible to reach the destination without enough fuel
+          Date:2023-01-23 12:40:19.673419
+
+ Description: The test "test_checkFuelT" passed successfully, result:True should receive True
+ 
+        Checks if there is enough fuel for the destination
+          Date:2023-01-23 12:40:19.675367
+
+ Description: The test "test_checkFuel_withRefueling" passed successfully, result:True should receive True
+ 
+        Checks if there is enough fuel for the destination provided there is money for fuel
+          Date:2023-01-23 12:40:19.677368
+
+ Description: The test "test_checkMoney" passed successfully, check TypeError
+ 
+        Checks that you can't fill up fuel without money
+          Date:2023-01-23 12:40:19.679406
+
+ Description: The test "test_checkMoney" passed successfully, result:90.0 should receive True
+ 
+        Checks the amount of money corresponds to the amount of fuel that should be
+          Date:2023-01-23 12:40:19.681406
+
+ Description: The test "test_gearLevelF" passed successfully, check OverFlowError
+ 
+        Checks that the gear cannot be above level 6
+          Date:2023-01-23 12:40:19.682380
+
+ Description: The test "test_gearLevel" passed successfully, result:6 should receive 6
+ 
+        Checks if the gear is normal for speed
+          Date:2023-01-23 12:40:19.685365
+
+ Description: The test "test_start" passed successfully,  check TypeError
+ 
+        Checks if the vehicle can start when it is already in motion
+          Date:2023-01-23 12:40:19.687414
+
+ Description: The test "test_start" passed successfully, result:True should receive True
+ 
+        check if the car start drive
+          Date:2023-01-23 12:40:19.689405
+
+ Description: The test "test_stop" passed successfully, result:0 should receive 0
+ 
+        check if the car stopped
+          Date:2023-01-23 12:40:19.690369
+
+ Description: The test "test_stop" passed successfully, result:0 should receive 0
+ 
+    check if the car stopped
+    :param c: the car
+      Date:2023-01-23 12:40:28.001626
+
+ Description: The test "test_start" passed successfully, result:True should receive True
+ 
+    check if the car start drive
+    :param c: the car
+      Date:2023-01-23 12:40:28.002627
+
+ Description: The test "test_start" passed successfully,  check TypeError
+ 
+    Checks if the vehicle can start when it is already in motion
+    :param c: the car
+      Date:2023-01-23 12:40:28.004627
+
+ Description: The test "test_gearLevel" passed successfully, result:6 should receive 6
+ 
+    Checks if the gear is normal for speed
+    :param c: the car
+      Date:2023-01-23 12:40:28.007627
+
+ Description: The test "test_gearLevelF" passed successfully, check OverFlowError
+ 
+    Checks that the gear cannot be above level 6
+    :param c: the car
+      Date:2023-01-23 12:40:28.008627
+
+ Description: The test "test_checkFuelT" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination
+    :param c: the car
+      Date:2023-01-23 12:40:28.009626
+
+ Description: The test "test_checkFuel_withRefueling" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination provided there is money for fuel
+    :param c: the car
+      Date:2023-01-23 12:40:28.010627
+
+ Description: The test "test_checkFuel" passed successfully,  check TypeError
+ 
+    Checks that it is impossible to reach the destination without enough fuel
+    :param c: the car
+      Date:2023-01-23 12:40:28.012627
+
+ Description: The test "test_checkMoney" passed successfully, result:90.0 should receive True
+ 
+    Checks the amount of money corresponds to the amount of fuel that should be
+    :param c: the car
+      Date:2023-01-23 12:40:28.013627
+
+ Description: The test "test_checkMoney" passed successfully, check TypeError
+ 
+    Checks that you can't fill up fuel without money
+    :param c: the car
+      Date:2023-01-23 12:40:28.014627
+
+ Description: The test "test_stop" passed successfully, result:0 should receive 0
+ 
+        check if the car stopped
+          Date:2023-01-23 12:46:28.128298
+
+ Description: The test "test_stop" passed successfully, result:0 should receive 0
+ 
+    check if the car stopped
+    :param c: the car
+      Date:2023-01-23 12:47:19.782349
+
+ Description: The test "test_start" passed successfully, result:True should receive True
+ 
+    check if the car start drive
+    :param c: the car
+      Date:2023-01-23 12:47:19.783349
+
+ Description: The test "test_start" passed successfully,  check TypeError
+ 
+    Checks if the vehicle can start when it is already in motion
+    :param c: the car
+      Date:2023-01-23 12:47:19.785349
+
+ Description: The test "test_gearLevel" passed successfully, result:6 should receive 6
+ 
+    Checks if the gear is normal for speed
+    :param c: the car
+      Date:2023-01-23 12:47:19.786350
+
+ Description: The test "test_gearLevelF" passed successfully, check OverFlowError
+ 
+    Checks that the gear cannot be above level 6
+    :param c: the car
+      Date:2023-01-23 12:47:19.788350
+
+ Description: The test "test_checkFuelT" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination
+    :param c: the car
+      Date:2023-01-23 12:47:19.789349
+
+ Description: The test "test_checkFuel_withRefueling" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination provided there is money for fuel
+    :param c: the car
+      Date:2023-01-23 12:47:19.790349
+
+ Description: The test "test_checkFuel" passed successfully,  check TypeError
+ 
+    Checks that it is impossible to reach the destination without enough fuel
+    :param c: the car
+      Date:2023-01-23 12:47:19.791351
+
+ Description: The test "test_checkMoney" passed successfully, result:90.0 should receive True
+ 
+    Checks the amount of money corresponds to the amount of fuel that should be
+    :param c: the car
+      Date:2023-01-23 12:47:19.793349
+
+ Description: The test "test_checkMoney" passed successfully, check TypeError
+ 
+    Checks that you can't fill up fuel without money
+    :param c: the car
+      Date:2023-01-23 12:47:19.794349
+
+ Description: The test "test_stop" passed successfully, result:0 should receive 0
+ 
+    check if the car stopped
+    :param c: the car
+      Date:2023-01-23 13:23:23.580204
+
+ Description: The test "test_start" passed successfully, result:True should receive True
+ 
+    check if the car start drive
+    :param c: the car
+      Date:2023-01-23 13:23:23.582247
+
+ Description: The test "test_start" passed successfully,  check TypeError
+ 
+    Checks if the vehicle can start when it is already in motion
+    :param c: the car
+      Date:2023-01-23 13:23:23.583204
+
+ Description: The test "test_gearLevel" passed successfully, result:6 should receive 6
+ 
+    Checks if the gear is normal for speed
+    :param c: the car
+      Date:2023-01-23 13:23:23.585238
+
+ Description: The test "test_gearLevelF" passed successfully, check OverFlowError
+ 
+    Checks that the gear cannot be above level 6
+    :param c: the car
+      Date:2023-01-23 13:23:23.586240
+
+ Description: The test "test_checkFuelT" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination
+    :param c: the car
+      Date:2023-01-23 13:23:23.587239
+
+ Description: The test "test_checkFuel_withRefueling" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination provided there is money for fuel
+    :param c: the car
+      Date:2023-01-23 13:23:23.588249
+
+ Description: The test "test_checkFuel" passed successfully,  check TypeError
+ 
+    Checks that it is impossible to reach the destination without enough fuel
+    :param c: the car
+      Date:2023-01-23 13:23:23.589204
+
+ Description: The test "test_checkMoney" passed successfully, result:90.0 should receive True
+ 
+    Checks the amount of money corresponds to the amount of fuel that should be
+    :param c: the car
+      Date:2023-01-23 13:23:23.590203
+
+ Description: The test "test_checkMoney" passed successfully, check TypeError
+ 
+    Checks that you can't fill up fuel without money
+    :param c: the car
+      Date:2023-01-23 13:23:23.591210
+
+ Description: The test "test_stop" passed successfully, result:0 should receive 0
+ 
+    check if the car stopped
+    :param c: the car
+      Date:2023-01-23 13:51:39.941020
+
+ Description: The test "test_start" passed successfully, result:True should receive True
+ 
+    name: dima
+    Date: 23/01/23
+    check if the car start drive
+    :param c: the car
+      Date:2023-01-23 13:51:39.944611
+
+ Description: The test "test_start" passed successfully,  check TypeError
+ 
+    Checks if the vehicle can start when it is already in motion
+    :param c: the car
+      Date:2023-01-23 13:51:39.948612
+
+ Description: The test "test_gearLevel" passed successfully, result:6 should receive 6
+ 
+    Checks if the gear is normal for speed
+    :param c: the car
+      Date:2023-01-23 13:51:39.952612
+
+ Description: The test "test_gearLevelF" passed successfully, check OverFlowError
+ 
+    Checks that the gear cannot be above level 6
+    :param c: the car
+      Date:2023-01-23 13:51:39.956119
+
+ Description: The test "test_checkFuelT" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination
+    :param c: the car
+      Date:2023-01-23 13:51:39.960137
+
+ Description: The test "test_checkFuel_withRefueling" passed successfully, result:True should receive True
+ 
+    Checks if there is enough fuel for the destination provided there is money for fuel
+    :param c: the car
+      Date:2023-01-23 13:51:39.963137
+
+ Description: The test "test_checkFuel" passed successfully,  check TypeError
+ 
+    Checks that it is impossible to reach the destination without enough fuel
+    :param c: the car
+      Date:2023-01-23 13:51:39.967137
+
+ Description: The test "test_checkMoney" passed successfully, result:90.0 should receive True
+ 
+    Checks the amount of money corresponds to the amount of fuel that should be
+    :param c: the car
+      Date:2023-01-23 13:51:39.970137
+
+ Description: The test "test_checkMoney" passed successfully, check TypeError
+ 
+    Checks that you can't fill up fuel without money
+    :param c: the car
+      Date:2023-01-23 13:51:39.974140
+
+ Description:  The test test_stop passed successfully , result:0 should receive 0
+ 
+        check if the car stopped
+          Date:2023-01-23 14:30:26.160468
+
+ Description:  The test test_stop passed successfully , result:0 should receive 0
+ 
+        check if the car stopped
+          Date:2023-01-23 14:30:46.053453
+
+ Description: The test "test_checkFuel_False" passed successfully,  check TypeError
+ 
+        Checks that it is impossible to reach the destination without enough fuel
+          Date:2023-01-23 14:40:05.403965
+
+ Description: The test "test_checkFuel_True" passed successfully, result:True should receive True
+ 
+        Checks if there is enough fuel for the destination
+          Date:2023-01-23 14:40:05.406938
+
+ Description: The test "test_checkFuel_withRefueling_True" passed successfully, result:True should receive True
+ 
+        Checks if there is enough fuel for the destination provided there is money for fuel
+          Date:2023-01-23 14:40:05.407950
+
+ Description: The test "test_checkMoney_False" passed successfully, check TypeError
+ 
+        Checks that you can't fill up fuel without money
+          Date:2023-01-23 14:40:05.409899
+
+ Description: The test "test_checkMoney_true" passed successfully, result:90.0 should receive True
+ 
+        Checks the amount of money corresponds to the amount of fuel that should be
+          Date:2023-01-23 14:40:05.411963
+
+ Description: The test "test_gearLevel_False" passed successfully, check OverFlowError
+ 
+        Checks that the gear cannot be above level 6
+          Date:2023-01-23 14:40:05.413947
+
+ Description: The test "test_gearLevel_True" passed successfully, result:6 should receive 6
+ 
+        Checks if the gear is normal for speed
+          Date:2023-01-23 14:40:05.415900
+
+ Description: The test "test_start_False" passed successfully,  check TypeError
+ 
+        Checks if the vehicle can start when it is already in motion
+          Date:2023-01-23 14:40:05.417936
+
+ Description: The test "test_start" passed successfully, result:True should receive True
+ 
+        check if the car start drive
+          Date:2023-01-23 14:40:05.419900
+
+ Description:  The test test_stop passed successfully , result:0 should receive 0
+ 
+        check if the car stopped
+          Date:2023-01-23 14:40:05.421903
